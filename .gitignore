@@ -1,0 +1,9 @@
+.DS_Store
+Thumbs.db
+~$*
+*.tmp
+__pycache__/
+.env
+.env.*
+scratch/
+private/
