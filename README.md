@@ -19,6 +19,7 @@ Simulation 2: Student, PI, and Lab Consensus.
 - `presentation/`: slides and speaker notes.
 - `assessment/`: assessment drafts and responses.
 - `figures/`: editable teaching diagrams and exports.
+- [`figures/palette.json`](figures/palette.json): user-provided blue and green palettes, with HEX values and bilingual names.
 - `notes/`: reading notes and references.
 - `logs/`: repository work records.
 
