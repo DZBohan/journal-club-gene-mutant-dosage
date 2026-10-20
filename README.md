@@ -4,7 +4,11 @@ Canonical repository: https://github.com/DZBohan/journal-club-gene-mutant-dosage
 
 Calonaci et al. **Gene mutant dosage is associated with prognosis and metastatic tropism in 60,000 clinical cancer samples.** Nature Genetics (2026). [Paper](https://doi.org/10.1038/s41588-026-02666-z).
 
-## Materials
+## Reusable journal club standards
+
+For new papers, start with [standards/README.md](standards/README.md). It links the evidence-first workflow, Chinese/English reading-guide requirements, editable PPTX rules, acceptance checklist and reusable [task templates](templates/journal-club/brief.md). These standards apply across papers; the INCOMMON archive below remains unchanged.
+
+## INCOMMON materials
 
 - `slides/approved/`: latest individually approved slides 01 to 16, editable PPTX. These are individual slides, not a reconstructed final deck.
 - `slides/drafts/`: slide 00, the last available agent-generated introduction. The user later edited it; their final editable file has not been supplied.
