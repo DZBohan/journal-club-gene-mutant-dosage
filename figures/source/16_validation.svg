@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="680" viewBox="0 0 1200 680">
+<rect width="1200" height="680" fill="white"/>
+<text x="28" y="56" font-family="Arial" font-size="42" font-weight="700" fill="#000000">Performance validation: two comparisons</text>
+<rect x="24" y="105" width="558" height="470" rx="16" fill="white" stroke="black" stroke-width="0.7"/>
+<rect x="618" y="105" width="558" height="470" rx="16" fill="white" stroke="black" stroke-width="0.7"/>
+<text x="48" y="148" font-family="Arial" font-size="23.625" font-weight="700" fill="#2c3385">WGS reference benchmark</text>
+<text x="48" y="190" font-family="Arial" font-size="23.625" font-weight="400" fill="#000000">6,492 samples · 46 tumor types</text>
+<rect x="48" y="218" width="350" height="44" fill="#d7f0fc"/>
+<rect x="398" y="218" width="150" height="44" fill="#ddedd1"/>
+<text x="70" y="248" font-family="Arial" font-size="23.625" font-weight="700" fill="#000000">70% training</text>
+<text x="410" y="248" font-family="Arial" font-size="23.625" font-weight="700" fill="#000000">30% test</text>
+<text x="48" y="296" font-family="Arial" font-size="23.625" font-weight="400" fill="#000000">Estimate priors</text>
+<text x="339" y="296" font-family="Arial" font-size="23.625" font-weight="400" fill="#000000">Infer k and m</text>
+<text x="48" y="341" font-family="Arial" font-size="23.625" font-weight="400" fill="#000000">50 random train/test splits</text>
+<text x="48" y="388" font-family="Arial" font-size="23.625" font-weight="700" fill="#000000">INCOMMON ↔ WGS reference annotations</text>
+<text x="48" y="439" font-family="Arial" font-size="23.625" font-weight="700" fill="#2c3385">Mean absolute error (copies)</text>
+<text x="48" y="484" font-family="Arial" font-size="23.625" font-weight="400" fill="#000000">k: 0.590 ± 0.016</text>
+<text x="48" y="526" font-family="Arial" font-size="23.625" font-weight="400" fill="#000000">m: 0.201 ± 0.007</text>
+<text x="642" y="148" font-family="Arial" font-size="23.625" font-weight="700" fill="#018f52">Comparison with FACETS</text>
+<text x="642" y="190" font-family="Arial" font-size="23.625" font-weight="400" fill="#000000">Same targeted-panel samples</text>
+<text x="642" y="249" font-family="Arial" font-size="23.625" font-weight="700" fill="#000000">INCOMMON ↔ FACETS</text>
+<text x="642" y="304" font-family="Arial" font-size="23.625" font-weight="400" fill="#000000">Compare:</text>
+<text x="666" y="346" font-family="Arial" font-size="23.625" font-weight="400" fill="#000000">Total, major and minor copy number</text>
+<text x="666" y="388" font-family="Arial" font-size="23.625" font-weight="400" fill="#000000">Tumor purity</text>
+<text x="642" y="439" font-family="Arial" font-size="23.625" font-weight="700" fill="#018f52">Cross-tool agreement</text>
+<text x="642" y="484" font-family="Arial" font-size="23.625" font-weight="400" fill="#000000">Not an independent reference truth</text>
+<text x="48" y="616" font-family="Arial" font-size="23.625" font-weight="400" fill="#000000">FACETS: Fraction and Allele-Specific Copy Number</text>
+<text x="155" y="650" font-family="Arial" font-size="23.625" font-weight="400" fill="#000000">Estimates from Tumor Sequencing</text>
+</svg>

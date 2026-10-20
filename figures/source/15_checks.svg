@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="680" viewBox="0 0 1200 680">
+<rect width="1200" height="680" fill="white"/>
+<text x="28" y="56" font-family="Arial" font-size="42" font-weight="700" fill="#000000">Model checks: four targets, two approaches</text>
+<text x="48" y="111" font-family="Arial" font-size="23.625" font-weight="400" fill="#000000">Starting point: the fitted posterior</text>
+<rect x="24" y="151" width="558" height="430" rx="16" fill="white" stroke="#000000" stroke-width="0.8"/>
+<rect x="618" y="151" width="558" height="430" rx="16" fill="white" stroke="#000000" stroke-width="0.8"/>
+<text x="48" y="196" font-family="Arial" font-size="23.625" font-weight="700" fill="#2c3385">Posterior predictive checks (PPCs)</text>
+<text x="48" y="234" font-family="Arial" font-size="23.625" font-weight="400" fill="#000000">Per mutation locus</text>
+<text x="642" y="196" font-family="Arial" font-size="23.625" font-weight="700" fill="#018f52">Prior versus posterior discrepancy</text>
+<text x="642" y="234" font-family="Arial" font-size="23.625" font-weight="400" fill="#000000">Per sample</text>
+<rect x="48" y="261" width="510" height="64" rx="16" fill="white" stroke="#2c3385" stroke-width="0.8"/>
+<text x="68" y="302" font-family="Arial" font-size="23.625" font-weight="700" fill="#2c3385">dᵢ</text>
+<text x="126" y="302" font-family="Arial" font-size="23.625" font-weight="700" fill="#000000">Total read count</text>
+<rect x="48" y="344" width="510" height="64" rx="16" fill="white" stroke="#2c3385" stroke-width="0.8"/>
+<text x="68" y="385" font-family="Arial" font-size="23.625" font-weight="700" fill="#2c3385">rᵢ</text>
+<text x="126" y="385" font-family="Arial" font-size="23.625" font-weight="700" fill="#000000">Mutant read count</text>
+<rect x="642" y="261" width="510" height="64" rx="16" fill="white" stroke="#018f52" stroke-width="0.8"/>
+<text x="662" y="302" font-family="Arial" font-size="23.625" font-weight="700" fill="#018f52">π</text>
+<text x="720" y="302" font-family="Arial" font-size="23.625" font-weight="700" fill="#000000">Tumor purity</text>
+<rect x="642" y="344" width="510" height="64" rx="16" fill="white" stroke="#018f52" stroke-width="0.8"/>
+<text x="662" y="385" font-family="Arial" font-size="23.625" font-weight="700" fill="#018f52">η</text>
+<text x="720" y="385" font-family="Arial" font-size="23.625" font-weight="700" fill="#000000">Read rate per DNA copy</text>
+<text x="48" y="453" font-family="Arial" font-size="23.625" font-weight="700" fill="#000000">Posterior</text>
+<path d="M165 445 L208 445" stroke="#000000" stroke-width="2"/>
+<path d="M200 439 L208 445" stroke="#000000" stroke-width="2"/>
+<path d="M200 451 L208 445" stroke="#000000" stroke-width="2"/>
+<text x="224" y="453" font-family="Arial" font-size="23.625" font-weight="700" fill="#000000">Simulated reads</text>
+<text x="48" y="501" font-family="Arial" font-size="23.625" font-weight="400" fill="#000000">Compare with observed reads.</text>
+<text x="642" y="453" font-family="Arial" font-size="23.625" font-weight="700" fill="#000000">Prior draws  ↔  Posterior draws</text>
+<text x="642" y="501" font-family="Arial" font-size="23.625" font-weight="400" fill="#000000">Compare distances from the prior mean.</text>
+<text x="48" y="626" font-family="Arial" font-size="23.625" font-weight="700" fill="#2c3385">Do predicted reads fit the observations?</text>
+<text x="642" y="626" font-family="Arial" font-size="23.625" font-weight="700" fill="#018f52">How far does the posterior shift?</text>
+</svg>

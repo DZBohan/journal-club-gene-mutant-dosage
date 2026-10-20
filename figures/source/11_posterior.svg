@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="680" viewBox="0 0 1200 680">
+<rect width="1200" height="680" fill="white"/>
+<text x="28" y="56" font-family="Arial" font-size="42" font-weight="700" fill="#000000">Posterior inference: update the whole parameter set</text>
+<text x="48" y="113" font-family="Arial" font-size="23.625" font-weight="700" fill="#000000">p(Θ | X) ∝ p(Θ) × p(X | Θ)</text>
+<text x="650" y="113" font-family="Arial" font-size="23.625" font-weight="400" fill="#000000">Posterior ∝ Prior × Likelihood</text>
+<text x="48" y="156" font-family="Arial" font-size="23.625" font-weight="400" fill="#000000">Θ: π, η and all (kᵢ, mᵢ)</text>
+<text x="650" y="156" font-family="Arial" font-size="23.625" font-weight="400" fill="#000000">X: observed read counts {(dᵢ, rᵢ)}</text>
+<rect x="24" y="198" width="336" height="304" rx="16" fill="white" stroke="black" stroke-width="0.7"/>
+<text x="48" y="239" font-family="Arial" font-size="23.625" font-weight="700" fill="#000000">Prior</text>
+<rect x="64" y="317.0" width="48" height="120.0" fill="#7ed3f6"/>
+<text x="56" y="304.0" font-family="Arial" font-size="23.625" font-weight="400" fill="#000000">0.60</text>
+<text x="78" y="469" font-family="Arial" font-size="23.625" font-weight="700" fill="#000000">A</text>
+<rect x="158" y="377.0" width="48" height="60.0" fill="#92c86b"/>
+<text x="150" y="364.0" font-family="Arial" font-size="23.625" font-weight="400" fill="#000000">0.30</text>
+<text x="172" y="469" font-family="Arial" font-size="23.625" font-weight="700" fill="#000000">B</text>
+<rect x="252" y="417.0" width="48" height="20.0" fill="#7fc7a5"/>
+<text x="244" y="404.0" font-family="Arial" font-size="23.625" font-weight="400" fill="#000000">0.10</text>
+<text x="266" y="469" font-family="Arial" font-size="23.625" font-weight="700" fill="#000000">C</text>
+<path d="M48 437 L336 437" stroke="#000000" stroke-width="1"/>
+<rect x="432" y="198" width="336" height="304" rx="16" fill="white" stroke="black" stroke-width="0.7"/>
+<text x="456" y="239" font-family="Arial" font-size="23.625" font-weight="700" fill="#000000">Likelihood</text>
+<rect x="472" y="417.0" width="48" height="20.0" fill="#7ed3f6"/>
+<text x="464" y="404.0" font-family="Arial" font-size="23.625" font-weight="400" fill="#000000">0.10</text>
+<text x="486" y="469" font-family="Arial" font-size="23.625" font-weight="700" fill="#000000">A</text>
+<rect x="566" y="277.0" width="48" height="160.0" fill="#92c86b"/>
+<text x="558" y="264.0" font-family="Arial" font-size="23.625" font-weight="400" fill="#000000">0.80</text>
+<text x="580" y="469" font-family="Arial" font-size="23.625" font-weight="700" fill="#000000">B</text>
+<rect x="660" y="397.0" width="48" height="40.0" fill="#7fc7a5"/>
+<text x="652" y="384.0" font-family="Arial" font-size="23.625" font-weight="400" fill="#000000">0.20</text>
+<text x="674" y="469" font-family="Arial" font-size="23.625" font-weight="700" fill="#000000">C</text>
+<path d="M456 437 L744 437" stroke="#000000" stroke-width="1"/>
+<rect x="840" y="198" width="336" height="304" rx="16" fill="white" stroke="black" stroke-width="0.7"/>
+<text x="864" y="239" font-family="Arial" font-size="23.625" font-weight="700" fill="#000000">Posterior</text>
+<rect x="880" y="399.5" width="48" height="37.5" fill="#7ed3f6"/>
+<text x="872" y="386.5" font-family="Arial" font-size="23.625" font-weight="400" fill="#000000">18.75%</text>
+<text x="894" y="469" font-family="Arial" font-size="23.625" font-weight="700" fill="#000000">A</text>
+<rect x="974" y="287.0" width="48" height="150.0" fill="#92c86b"/>
+<text x="966" y="274.0" font-family="Arial" font-size="23.625" font-weight="400" fill="#000000">75%</text>
+<text x="988" y="469" font-family="Arial" font-size="23.625" font-weight="700" fill="#000000">B</text>
+<rect x="1068" y="424.5" width="48" height="12.5" fill="#7fc7a5"/>
+<text x="1060" y="411.5" font-family="Arial" font-size="23.625" font-weight="400" fill="#000000">6.25%</text>
+<text x="1082" y="469" font-family="Arial" font-size="23.625" font-weight="700" fill="#000000">C</text>
+<path d="M864 437 L1152 437" stroke="#000000" stroke-width="1"/>
+<text x="386" y="358" font-family="Arial" font-size="23.625" font-weight="700" fill="#000000">×</text>
+<text x="792" y="358" font-family="Arial" font-size="23.625" font-weight="700" fill="#000000">→</text>
+<text x="48" y="545" font-family="Arial" font-size="23.625" font-weight="400" fill="#000000">A, B, C: three example parameter hypotheses</text>
+<text x="48" y="602" font-family="Arial" font-size="23.625" font-weight="700" fill="#000000">Markov chain Monte Carlo (MCMC)</text>
+<text x="48" y="642" font-family="Arial" font-size="23.625" font-weight="400" fill="#000000">INCOMMON uses MCMC to approximate the joint posterior.</text>
+</svg>

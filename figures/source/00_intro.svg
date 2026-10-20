@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="680" viewBox="0 0 1200 680">
+<rect width="1200" height="680" fill="white"/>
+<text x="28" y="56" font-family="Arial" font-size="42" font-weight="700" fill="#000000">INCOMMON: why this paper matters to our lab</text>
+<text x="48" y="108" font-family="Arial" font-size="23.625" font-weight="700" fill="#000000">Gene mutant dosage is associated with prognosis and metastatic tropism</text>
+<text x="48" y="141" font-family="Arial" font-size="23.625" font-weight="700" fill="#000000">in 60,000 clinical cancer samples</text>
+<text x="48" y="178" font-family="Arial" font-size="23.625" font-weight="400" fill="#000000">Calonaci et al. · Nature Genetics (2026) · 58: 1906 to 1917</text>
+<text x="48" y="220" font-family="Arial" font-size="23.625" font-weight="400" fill="#000000">INCOMMON: inference of copy number and mutation multiplicity for oncology</text>
+<rect x="24" y="255" width="368" height="280" rx="16" fill="white" stroke="black" stroke-width="0.7"/>
+<rect x="416" y="255" width="368" height="280" rx="16" fill="white" stroke="black" stroke-width="0.7"/>
+<rect x="808" y="255" width="368" height="280" rx="16" fill="white" stroke="black" stroke-width="0.7"/>
+<text x="48" y="298" font-family="Arial" font-size="23.625" font-weight="700" fill="#2c3385">Our work: Webb et al.</text>
+<text x="48" y="343" font-family="Arial" font-size="23.625" font-weight="400" fill="#000000">Loss of heterozygosity (LOH)</text>
+<text x="48" y="383" font-family="Arial" font-size="23.625" font-weight="400" fill="#000000">Spatial allelic imbalance</text>
+<text x="48" y="435" font-family="Arial" font-size="23.625" font-weight="400" fill="#000000">Tumor/normal DNA</text>
+<text x="48" y="470" font-family="Arial" font-size="23.625" font-weight="400" fill="#000000">+ bulk and spatial RNA</text>
+<text x="440" y="298" font-family="Arial" font-size="23.625" font-weight="700" fill="#2c3385">What this paper adds</text>
+<text x="440" y="348" font-family="Arial" font-size="23.625" font-weight="400" fill="#000000">Mutation presence</text>
+<path d="M560 362 L560 389" stroke="#000000" stroke-width="2"/>
+<path d="M553 382 L560 389" stroke="#000000" stroke-width="2"/>
+<path d="M567 382 L560 389" stroke="#000000" stroke-width="2"/>
+<text x="440" y="421" font-family="Arial" font-size="23.625" font-weight="700" fill="#000000">Mutant copy dosage</text>
+<text x="440" y="466" font-family="Arial" font-size="23.625" font-weight="400" fill="#000000">From clinical read counts</text>
+<text x="440" y="505" font-family="Arial" font-size="23.625" font-weight="400" fill="#000000">No matched normal required</text>
+<text x="832" y="298" font-family="Arial" font-size="23.625" font-weight="700" fill="#018f52">Proposed use in our lab</text>
+<text x="832" y="343" font-family="Arial" font-size="23.625" font-weight="400" fill="#000000">Validate against our DNA</text>
+<text x="832" y="378" font-family="Arial" font-size="23.625" font-weight="400" fill="#000000">reference annotations</text>
+<text x="832" y="429" font-family="Arial" font-size="23.625" font-weight="400" fill="#000000">Test dosage associations</text>
+<text x="832" y="464" font-family="Arial" font-size="23.625" font-weight="400" fill="#000000">with expression and</text>
+<text x="832" y="499" font-family="Arial" font-size="23.625" font-weight="400" fill="#000000">spatial heterogeneity</text>
+<text x="48" y="585" font-family="Arial" font-size="23.625" font-weight="700" fill="#000000">Can mutant dosage help interpret the allelic imbalance we observe?</text>
+<text x="48" y="636" font-family="Arial" font-size="23.625" font-weight="400" fill="#000000">Lab reference: Webb et al. · Nature Communications 16, 5290 (2025)</text>
+</svg>

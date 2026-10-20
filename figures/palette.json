@@ -1,0 +1,14 @@
+{
+  "blue": [
+    { "hex": "#d7f0fc", "name": "pale blue", "name_zh": "浅蓝" },
+    { "hex": "#9499c0", "name": "periwinkle", "name_zh": "长春花紫蓝" },
+    { "hex": "#7ed3f6", "name": "sky", "name_zh": "天蓝" },
+    { "hex": "#2c3385", "name": "navy", "name_zh": "藏青" }
+  ],
+  "green": [
+    { "hex": "#ddedd1", "name": "pale green", "name_zh": "浅绿" },
+    { "hex": "#92c86b", "name": "leaf", "name_zh": "叶绿" },
+    { "hex": "#7fc7a5", "name": "soft teal", "name_zh": "柔青" },
+    { "hex": "#018f52", "name": "deep green", "name_zh": "深绿" }
+  ]
+}

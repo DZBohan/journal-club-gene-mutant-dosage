@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="680" viewBox="0 0 1200 680">
+<rect width="1200" height="680" fill="white"/>
+<text x="28" y="56" font-family="Arial" font-size="42" font-weight="700" fill="#000000">MAP: select the most probable configuration</text>
+<text x="48" y="111" font-family="Arial" font-size="23.625" font-weight="700" fill="#000000">Maximum a posteriori (MAP)</text>
+<text x="48" y="153" font-family="Arial" font-size="23.625" font-weight="400" fill="#000000">Select the (kᵢ, mᵢ) pair with the highest posterior probability.</text>
+<rect x="24" y="191" width="558" height="370" rx="16" fill="white" stroke="black" stroke-width="0.7"/>
+<rect x="650" y="191" width="526" height="370" rx="16" fill="white" stroke="black" stroke-width="0.7"/>
+<text x="48" y="235" font-family="Arial" font-size="23.625" font-weight="700" fill="#000000">Posterior for one mutation locus</text>
+<rect x="100" y="439.0" width="65" height="45.0" fill="#7ed3f6"/>
+<text x="90" y="425.0" font-family="Arial" font-size="23.625" font-weight="400" fill="#000000">18.75%</text>
+<text x="80" y="524" font-family="Arial" font-size="23.625" font-weight="700" fill="#000000">A: (2,1)</text>
+<rect x="255" y="304.0" width="65" height="180.0" fill="#92c86b"/>
+<text x="245" y="290.0" font-family="Arial" font-size="23.625" font-weight="400" fill="#000000">75%</text>
+<text x="235" y="524" font-family="Arial" font-size="23.625" font-weight="700" fill="#000000">B: (3,2)</text>
+<rect x="410" y="469.0" width="65" height="15.0" fill="#7fc7a5"/>
+<text x="400" y="455.0" font-family="Arial" font-size="23.625" font-weight="400" fill="#000000">6.25%</text>
+<text x="390" y="524" font-family="Arial" font-size="23.625" font-weight="700" fill="#000000">C: (1,1)</text>
+<path d="M60 484 L548 484" stroke="#000000" stroke-width="1" stroke-linecap="round"/>
+<path d="M597 374 L635 374" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+<path d="M626 367 L635 374" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+<path d="M626 381 L635 374" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+<text x="678" y="235" font-family="Arial" font-size="23.625" font-weight="700" fill="#000000">MAP configuration</text>
+<rect x="678" y="262" width="16" height="20" fill="#92c86b"/>
+<text x="706" y="282" font-family="Arial" font-size="23.625" font-weight="700" fill="#000000">B: (kᵢ, mᵢ) = (3, 2)</text>
+<path d="M697 331 L1060 331" stroke="#9499c0" stroke-width="5" stroke-linecap="round"/>
+<rect x="866" y="321" width="20" height="20" fill="#018f52"/>
+<text x="1080" y="339" font-family="Arial" font-size="23.625" font-weight="700" fill="#018f52">M</text>
+<path d="M697 384 L1060 384" stroke="#9499c0" stroke-width="5" stroke-linecap="round"/>
+<rect x="866" y="374" width="20" height="20" fill="#018f52"/>
+<text x="1080" y="392" font-family="Arial" font-size="23.625" font-weight="700" fill="#018f52">M</text>
+<path d="M697 437 L1060 437" stroke="#9499c0" stroke-width="5" stroke-linecap="round"/>
+<rect x="866" y="427" width="20" height="20" fill="#2c3385"/>
+<text x="1080" y="445" font-family="Arial" font-size="23.625" font-weight="700" fill="#2c3385">W</text>
+<text x="678" y="519" font-family="Arial" font-size="23.625" font-weight="700" fill="#000000">Posterior probability: 75%</text>
+<text x="48" y="622" font-family="Arial" font-size="23.625" font-weight="400" fill="#018f52">M: specified mutation</text>
+<text x="652" y="622" font-family="Arial" font-size="23.625" font-weight="400" fill="#2c3385">W: no specified mutation</text>
+</svg>

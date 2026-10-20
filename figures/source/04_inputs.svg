@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="680" viewBox="0 0 1200 680">
+<rect width="1200" height="680" fill="white"/>
+<text x="28" y="56" font-family="Arial" font-size="42" font-weight="700" fill="#000000">INCOMMON: three sources of input information</text>
+<text x="48" y="115" font-family="Arial" font-size="23.625" font-weight="700" fill="#2c3385">Current sample</text>
+<path d="M48 132 L762 132" fill="none" stroke="#9499c0" stroke-width="3"/>
+<text x="832" y="115" font-family="Arial" font-size="23.625" font-weight="700" fill="#018f52">Historical cohorts</text>
+<path d="M832 132 L1152 132" fill="none" stroke="#7fc7a5" stroke-width="3"/>
+<rect x="24" y="152" width="368" height="232" rx="16" fill="white" stroke="black" stroke-width="0.7"/>
+<rect x="416" y="152" width="368" height="232" rx="16" fill="white" stroke="black" stroke-width="0.7"/>
+<rect x="808" y="152" width="368" height="232" rx="16" fill="white" stroke="black" stroke-width="0.7"/>
+<text x="48" y="193" font-family="Arial" font-size="23.625" font-weight="700" fill="#2c3385">Sequencing read counts</text>
+<text x="48" y="241" font-family="Arial" font-size="23.625" font-weight="400" fill="#000000">For each called mutation i:</text>
+<text x="48" y="287" font-family="Arial" font-size="23.625" font-weight="400" fill="#000000">dᵢ: total reads</text>
+<text x="48" y="333" font-family="Arial" font-size="23.625" font-weight="400" fill="#018f52">rᵢ: mutant reads</text>
+<text x="440" y="193" font-family="Arial" font-size="23.625" font-weight="700" fill="#2c3385">Pathology purity estimate</text>
+<text x="440" y="241" font-family="Arial" font-size="23.625" font-weight="400" fill="#000000">π₀: estimated tumor fraction</text>
+<text x="440" y="287" font-family="Arial" font-size="23.625" font-weight="400" fill="#000000">Example: π₀ = 0.60</text>
+<text x="440" y="333" font-family="Arial" font-size="23.625" font-weight="400" fill="#000000">Informs the prior for π</text>
+<text x="832" y="193" font-family="Arial" font-size="23.625" font-weight="700" fill="#018f52">Copy-number prior</text>
+<text x="832" y="241" font-family="Arial" font-size="23.625" font-weight="400" fill="#000000">Whole-genome sequencing</text>
+<text x="832" y="276" font-family="Arial" font-size="23.625" font-weight="400" fill="#000000">(WGS) cohorts</text>
+<text x="832" y="333" font-family="Arial" font-size="23.625" font-weight="400" fill="#000000">Prior over (k, m) states</text>
+<path d="M208 386 L420 451" fill="none" stroke="#000000" stroke-width="2"/>
+<path d="M420 451 L408.5448484060093 454.57484292783505" fill="none" stroke="#000000" stroke-width="2"/>
+<path d="M420 451 L412.51724365627587 441.61872303465805" fill="none" stroke="#000000" stroke-width="2"/>
+<path d="M600 386 L600 451" fill="none" stroke="#000000" stroke-width="2"/>
+<path d="M600 451 L593.2242903192596 441.0959726210839" fill="none" stroke="#000000" stroke-width="2"/>
+<path d="M600 451 L606.7757096807404 441.0959726210839" fill="none" stroke="#000000" stroke-width="2"/>
+<path d="M992 386 L780 451" fill="none" stroke="#000000" stroke-width="2"/>
+<path d="M780 451 L787.4827563437242 441.61872303465805" fill="none" stroke="#000000" stroke-width="2"/>
+<path d="M780 451 L791.4551515939906 454.57484292783505" fill="none" stroke="#000000" stroke-width="2"/>
+<rect x="260" y="455" width="680" height="84" rx="16" fill="white" stroke="black" stroke-width="0.7"/>
+<text x="424" y="506" font-family="Arial" font-size="23.625" font-weight="700" fill="#000000">Joint Bayesian inference</text>
+<path d="M600 540 L600 582" fill="none" stroke="#000000" stroke-width="2"/>
+<path d="M600 582 L593.2242903192596 572.0959726210839" fill="none" stroke="#000000" stroke-width="2"/>
+<path d="M600 582 L606.7757096807404 572.0959726210839" fill="none" stroke="#000000" stroke-width="2"/>
+<rect x="260" y="586" width="680" height="70" rx="16" fill="white" stroke="black" stroke-width="0.7"/>
+<text x="329" y="631" font-family="Arial" font-size="23.625" font-weight="700" fill="#000000">Posterior estimates of π, η and (kᵢ, mᵢ)</text>
+</svg>

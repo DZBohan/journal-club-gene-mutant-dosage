@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="680" viewBox="0 0 1200 680">
+<rect width="1200" height="680" fill="white"/>
+<text x="28" y="56" font-family="Arial" font-size="42" font-weight="700" fill="#000000">From posterior mean FAM to three GMD classes</text>
+<text x="48" y="105" font-family="Arial" font-size="23.625" font-weight="400" fill="#000000">Gene mutant dosage (GMD): Low, Balanced, High</text>
+<text x="48" y="149" font-family="Arial" font-size="23.625" font-weight="700" fill="#000000">Previous example: posterior mean FAM = 0.65625</text>
+<rect x="24" y="185" width="1152" height="196" rx="16" fill="white" stroke="black" stroke-width="0.7"/>
+<text x="48" y="224" font-family="Arial" font-size="23.625" font-weight="700" fill="#000000">Oncogenes</text>
+<rect x="76" y="279" width="343.2" height="48" fill="#d7f0fc"/>
+<rect x="419.2" y="279" width="343.2" height="48" fill="#ddedd1"/>
+<rect x="762.4" y="279" width="353.59999999999997" height="48" fill="#9499c0"/>
+<text x="228.1" y="311" font-family="Arial" font-size="23.625" font-weight="700" fill="#000000">Low</text>
+<text x="538.8" y="311" font-family="Arial" font-size="23.625" font-weight="700" fill="#000000">Balanced</text>
+<text x="913.2" y="311" font-family="Arial" font-size="23.625" font-weight="700" fill="#000000">High</text>
+<path d="M76 327 L76 334" stroke="#000000" stroke-width="1"/>
+<text x="64" y="359" font-family="Arial" font-size="23.625" font-weight="400" fill="#000000">0</text>
+<path d="M419.2 327 L419.2 334" stroke="#000000" stroke-width="1"/>
+<text x="407.2" y="359" font-family="Arial" font-size="23.625" font-weight="400" fill="#000000">0.33</text>
+<path d="M762.4 327 L762.4 334" stroke="#000000" stroke-width="1"/>
+<text x="750.4" y="359" font-family="Arial" font-size="23.625" font-weight="400" fill="#000000">0.66</text>
+<path d="M1116 327 L1116 334" stroke="#000000" stroke-width="1"/>
+<text x="1104" y="359" font-family="Arial" font-size="23.625" font-weight="400" fill="#000000">1</text>
+<path d="M751.5 264 L765.5 264 L758.5 276 Z" fill="black"/>
+<text x="778.5" y="258" font-family="Arial" font-size="23.625" font-weight="700" fill="#000000">0.65625: Balanced</text>
+<rect x="24" y="406" width="1152" height="196" rx="16" fill="white" stroke="black" stroke-width="0.7"/>
+<text x="48" y="445" font-family="Arial" font-size="23.625" font-weight="700" fill="#000000">Tumor suppressor genes (TSGs)</text>
+<rect x="76" y="500" width="260.0" height="48" fill="#d7f0fc"/>
+<rect x="336.0" y="500" width="520.0" height="48" fill="#ddedd1"/>
+<rect x="856.0" y="500" width="260.0" height="48" fill="#9499c0"/>
+<text x="186.5" y="532" font-family="Arial" font-size="23.625" font-weight="700" fill="#000000">Low</text>
+<text x="544.0" y="532" font-family="Arial" font-size="23.625" font-weight="700" fill="#000000">Balanced</text>
+<text x="960.0" y="532" font-family="Arial" font-size="23.625" font-weight="700" fill="#000000">High</text>
+<path d="M76 548 L76 555" stroke="#000000" stroke-width="1"/>
+<text x="64" y="580" font-family="Arial" font-size="23.625" font-weight="400" fill="#000000">0</text>
+<path d="M336.0 548 L336.0 555" stroke="#000000" stroke-width="1"/>
+<text x="324.0" y="580" font-family="Arial" font-size="23.625" font-weight="400" fill="#000000">0.25</text>
+<path d="M856.0 548 L856.0 555" stroke="#000000" stroke-width="1"/>
+<text x="844.0" y="580" font-family="Arial" font-size="23.625" font-weight="400" fill="#000000">0.75</text>
+<path d="M1116 548 L1116 555" stroke="#000000" stroke-width="1"/>
+<text x="1104" y="580" font-family="Arial" font-size="23.625" font-weight="400" fill="#000000">1</text>
+<path d="M751.5 485 L765.5 485 L758.5 497 Z" fill="black"/>
+<text x="778.5" y="479" font-family="Arial" font-size="23.625" font-weight="700" fill="#000000">0.65625: Balanced</text>
+<text x="48" y="649" font-family="Arial" font-size="23.625" font-weight="700" fill="#000000">Low: FAM ≤ lower cutoff</text>
+<text x="652" y="649" font-family="Arial" font-size="23.625" font-weight="700" fill="#000000">High: FAM ≥ upper cutoff</text>
+</svg>

@@ -1,0 +1,182 @@
+[
+  {
+    "source": "/home/dzbohan/Codex/outbox/20261016-083403/01_DNA_copies_vs_reads.pptx",
+    "destination": "slides/approved/01_DNA_copies_vs_reads.pptx",
+    "sha256": "a7650a6a086a534780235981f881ac6852c75615f88323d7afb87d2e469af87f"
+  },
+  {
+    "source": "/home/dzbohan/Codex/outbox/20261016-084724/02_Tumor_purity.pptx",
+    "destination": "slides/approved/02_Tumor_purity.pptx",
+    "sha256": "443ac7ade9576dee6b21403c1bdb0e37b6e31e8b8c4d1e4d550c138a44b1fcbd"
+  },
+  {
+    "source": "/home/dzbohan/Codex/outbox/20261016-085121/03_Eta_read_rate.pptx",
+    "destination": "slides/approved/03_Eta_read_rate.pptx",
+    "sha256": "c64909def4363083c2d63245a612e875bbd0b4318a2088ed8f2542b6adbba147"
+  },
+  {
+    "source": "/home/dzbohan/Codex/outbox/20261016-085439/04_INCOMMON_inputs.pptx",
+    "destination": "slides/approved/04_INCOMMON_inputs.pptx",
+    "sha256": "4fc121717b8e9112e56a82e6f0e5cb1abdf6948af2b7d98563413e0487d95883"
+  },
+  {
+    "source": "/home/dzbohan/Codex/outbox/20261016-101512/05_Dirichlet_prior.pptx",
+    "destination": "slides/approved/05_Dirichlet_prior.pptx",
+    "sha256": "d7a18fa715226b8b0a313e5500f096e28feddad90cc8475ecc77f5d02e375285"
+  },
+  {
+    "source": "/home/dzbohan/Codex/outbox/20261016-093035/06_Tumor_purity_prior.pptx",
+    "destination": "slides/approved/06_Tumor_purity_prior.pptx",
+    "sha256": "1bbb1a548bb8f5ae8d6cb68b17427117c0354588832ad2623d02926b6c1a1c88"
+  },
+  {
+    "source": "/home/dzbohan/Codex/outbox/20261016-104739/07_Eta_prior.pptx",
+    "destination": "slides/approved/07_Eta_prior.pptx",
+    "sha256": "2bd47194d996561103bbdf189a7dccc8d27007535298c1710740c3d96eee1618"
+  },
+  {
+    "source": "/home/dzbohan/Codex/outbox/20261016-095325/08_Joint_likelihood.pptx",
+    "destination": "slides/approved/08_Joint_likelihood.pptx",
+    "sha256": "9254d0e2d493845547f5a5247c0f3731fbec57fca7b8a21d39127e8a54b8ecb3"
+  },
+  {
+    "source": "/home/dzbohan/Codex/outbox/20261016-095557/09_Poisson_likelihood.pptx",
+    "destination": "slides/approved/09_Poisson_likelihood.pptx",
+    "sha256": "127d359d4862637d005fb3463b96b9071362d1cf0cdf51d5f87a8bf06f45e12b"
+  },
+  {
+    "source": "/home/dzbohan/Codex/outbox/20261016-100345/10_Binomial_likelihood.pptx",
+    "destination": "slides/approved/10_Binomial_likelihood.pptx",
+    "sha256": "3af759a6a16a67a75368802e392721a38fce469227b40f4e01d1c263af67f1c1"
+  },
+  {
+    "source": "/home/dzbohan/Codex/outbox/20261016-101512/11_Posterior_inference.pptx",
+    "destination": "slides/approved/11_Posterior_inference.pptx",
+    "sha256": "0174715c155d37b9c0a911c22ff2075c3b67df5105c639d35080c69ae9057841"
+  },
+  {
+    "source": "/home/dzbohan/Codex/outbox/20261016-101307/12_MAP_configuration.pptx",
+    "destination": "slides/approved/12_MAP_configuration.pptx",
+    "sha256": "12482718a21f67d1b4eccc9a7e9b10c71d46d7effac28214da61c5a481974968"
+  },
+  {
+    "source": "/home/dzbohan/Codex/outbox/20261016-102751/13_FAM_posterior_mean.pptx",
+    "destination": "slides/approved/13_FAM_posterior_mean.pptx",
+    "sha256": "2eea2d57dfbea26b11974f5a56c2910bd21fac20f54062807ec599e9c703f912"
+  },
+  {
+    "source": "/home/dzbohan/Codex/outbox/20261016-103538/14_GMD_classes.pptx",
+    "destination": "slides/approved/14_GMD_classes.pptx",
+    "sha256": "e25fc42cd444719302d665592bc140e461a7e8af9c689f3003391ca7e981a40d"
+  },
+  {
+    "source": "/home/dzbohan/Codex/outbox/20261016-103732/15_Model_checks.pptx",
+    "destination": "slides/approved/15_Model_checks.pptx",
+    "sha256": "c239cd4bccfc1c3e6ec245be97d80017bc4fcb1865517dba4166d7cca289b6e2"
+  },
+  {
+    "source": "/home/dzbohan/Codex/outbox/20261016-104131/16_Performance_validation.pptx",
+    "destination": "slides/approved/16_Performance_validation.pptx",
+    "sha256": "ef5feb4330d1932cdd322c03b6bca25f83ddf3af491d8d37e0433d3501690e18"
+  },
+  {
+    "source": "/home/dzbohan/Codex/outbox/20261016-110920/00_Paper_and_lab_relevance.pptx",
+    "destination": "slides/drafts/00_Paper_and_lab_relevance.pptx",
+    "sha256": "e537982532932a38c3c355e207a2bcc879ff9aa6b4336076fd51a8d8bf3945f0"
+  },
+  {
+    "source": "/home/dzbohan/Projects/literature/papers/2026_gene-mutant-dosage_caravagna/explainer/GMD_文献解读_Calonaci2026.html",
+    "destination": "reading/GMD_文献解读_Calonaci2026.html",
+    "sha256": "5d0135faf18a348048db4ab6992654b87bfc6d833a679870f847de6b759e8c57"
+  },
+  {
+    "source": "/home/dzbohan/Projects/literature/papers/2026_gene-mutant-dosage_caravagna/explainer/GMD_paper_guide_Calonaci2026_EN.html",
+    "destination": "reading/GMD_paper_guide_Calonaci2026_EN.html",
+    "sha256": "28a9e13831542e363f69185b0eebb82e3a9b1cc93c1385797257920197f233e7"
+  },
+  {
+    "source": "/home/dzbohan/Projects/literature/papers/2026_gene-mutant-dosage_caravagna/explainer/GMD_双人报告分工方案.html",
+    "destination": "reading/GMD_双人报告分工方案.html",
+    "sha256": "2915fd24fc830a95b9acc0a857a53b7426c1f3dc6c418f65b2101e8e6ddbce1e"
+  },
+  {
+    "source": "/home/dzbohan/Projects/literature/papers/2026_gene-mutant-dosage_caravagna/explainer/GMD_two-presenter_split_plan_EN.html",
+    "destination": "reading/GMD_two-presenter_split_plan_EN.html",
+    "sha256": "b88a162973cbb1e6e1c521345792e22f2929b3c168aa49c126167a8888ec87cd"
+  },
+  {
+    "source": "/home/dzbohan/Codex/scratch/incommon-deck/03_eta.svg",
+    "destination": "figures/source/03_eta.svg",
+    "sha256": "51253fc0029af33d710b6d1c90cfb73034d02be3d01be9f6581a2a239a10ecba"
+  },
+  {
+    "source": "/home/dzbohan/Codex/scratch/incommon-deck/04_inputs.svg",
+    "destination": "figures/source/04_inputs.svg",
+    "sha256": "e0cf1e7e917fb1bb15b78c7fa23e0545d43809b63d3a4bdaab425b7419503dce"
+  },
+  {
+    "source": "/home/dzbohan/Codex/scratch/incommon-deck/05_prior.svg",
+    "destination": "figures/source/05_prior.svg",
+    "sha256": "8fd4813ca18ba699c0b93babf4f164c9337d32c9edb86b7bfbe5c6b35fa38cb4"
+  },
+  {
+    "source": "/home/dzbohan/Codex/scratch/incommon-deck/06_purity_prior.svg",
+    "destination": "figures/source/06_purity_prior.svg",
+    "sha256": "722df1920f1b628ac4c8e38e9a9e1065738a87bdcbd37681d5a7414e0565eca7"
+  },
+  {
+    "source": "/home/dzbohan/Codex/scratch/incommon-deck/07_eta_prior.svg",
+    "destination": "figures/source/07_eta_prior.svg",
+    "sha256": "262b26b620b1bf6835837941217473e5b9b44769ea12457eb8713fa291f59e73"
+  },
+  {
+    "source": "/home/dzbohan/Codex/scratch/incommon-deck/08_likelihood.svg",
+    "destination": "figures/source/08_likelihood.svg",
+    "sha256": "dbc70b39f84a6f36ff0fb89976ec240fe1e53d18cb6d85d0fd447728cac6fb52"
+  },
+  {
+    "source": "/home/dzbohan/Codex/scratch/incommon-deck/09_poisson.svg",
+    "destination": "figures/source/09_poisson.svg",
+    "sha256": "b1bd8ec38cdfa29db15a21c2eb5d84824f11b09b105b4a4ecf444d2e1666d77b"
+  },
+  {
+    "source": "/home/dzbohan/Codex/scratch/incommon-deck/10_binomial.svg",
+    "destination": "figures/source/10_binomial.svg",
+    "sha256": "6a71a29b998324f590a7b43e3fae1936d4dc21e996e28646e49cbc7f680bf017"
+  },
+  {
+    "source": "/home/dzbohan/Codex/scratch/incommon-deck/11_posterior.svg",
+    "destination": "figures/source/11_posterior.svg",
+    "sha256": "3f930ab27b271edfb6f6ece36bafc7f4ecbd4351fae5f195a01a1a96d1b704ed"
+  },
+  {
+    "source": "/home/dzbohan/Codex/scratch/incommon-deck/12_map.svg",
+    "destination": "figures/source/12_map.svg",
+    "sha256": "f9eab24f07086a740b37447d965eb4ffe14e8acd239fdb920ccafa92484b2869"
+  },
+  {
+    "source": "/home/dzbohan/Codex/scratch/incommon-deck/13_fam.svg",
+    "destination": "figures/source/13_fam.svg",
+    "sha256": "5ec698d03339ec52045cabf7685dce0b540da5b5cd4ab1b8ffe69d497b57a3d3"
+  },
+  {
+    "source": "/home/dzbohan/Codex/scratch/incommon-deck/14_gmd.svg",
+    "destination": "figures/source/14_gmd.svg",
+    "sha256": "687f777c525c2c205c6e377eb53a0a3ba7a0172648c1efaea82ec4cb64a34bae"
+  },
+  {
+    "source": "/home/dzbohan/Codex/scratch/incommon-deck/15_checks.svg",
+    "destination": "figures/source/15_checks.svg",
+    "sha256": "1800f95c2ada0ca5dddfd15eee76fa369a68cbf15e980cb13f6d13bd4b698a8f"
+  },
+  {
+    "source": "/home/dzbohan/Codex/scratch/incommon-deck/16_validation.svg",
+    "destination": "figures/source/16_validation.svg",
+    "sha256": "46299dd83c162bee7d02884b12203c82a29362a7c203e42fb0d55a815a57d386"
+  },
+  {
+    "source": "/home/dzbohan/Codex/scratch/incommon-deck/00_intro.svg",
+    "destination": "figures/source/00_intro.svg",
+    "sha256": "63b9c37d390ffe355031d19e4a6311633eaaa2eeeea12bd67688aedbcdb17c00"
+  }
+]
