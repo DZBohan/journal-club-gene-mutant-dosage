@@ -9,3 +9,5 @@ Imported latest approved individual slides 01 to 16, draft slide 00, bilingual r
 Slide 00 is a draft: the user later edited it and supplied only an image. No final combined deck is claimed.
 
 Both original GitHub repositories were public; visibility is preserved. Private correspondence and unpublished data were not imported.
+
+Deletion of the duplicate remote returned HTTP 403 because the current GitHub token lacks `delete_repo`. The duplicate remote was archived instead. It still exists read-only; permanent deletion requires user action or additional authorization. The duplicate local directory has been moved into the backup directory. There is one active working repository, but not yet only one existing GitHub repository.
