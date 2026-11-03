@@ -8,3 +8,7 @@ __pycache__/
 .env.*
 scratch/
 private/
+paper/*.txt
+pi-assessment/drafts/
+pi-assessment/reviews/
+pi-assessment/TASK.md
